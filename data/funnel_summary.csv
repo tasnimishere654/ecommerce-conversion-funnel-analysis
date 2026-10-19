@@ -1,0 +1,6 @@
+funnel,stage_order,stage,users
+A. Direct (view to purchase),1,Viewed,1070561
+A. Direct (view to purchase),2,Purchased,100510
+"B. Cart-based (view, cart, purchase)",1,Viewed,1070561
+"B. Cart-based (view, cart, purchase)",2,Added to cart,84582
+"B. Cart-based (view, cart, purchase)",3,Purchased,49942
